@@ -1,0 +1,77 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+#carouselExampleIndicators { 
+width: 30%
+}
+
+.carousel {
+  margin: 0 auto;
+}
+
+.bg-danger{
+  background-color: black !important;
+}
+
+h1, h2 {
+  font-family: "Impact", fantasy;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-decoration-line: underline;
+  color: darkviolet;
+}
+
+h1 {
+	font-size: 80px;
+}
+
+h2 {
+	font-size: 50px;
+  font-family: "Impact", fantasy;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-decoration-line: underline;
+}
+
+p {
+  font-family: "American Typewriter", serif;
+  color: whitesmoke;
+  font-style: ;
+}
+
+#carouselExample{
+  width: 50%;
+}
+
+#ThingsToDo{
+  background-color: dimgrey;
+}
+
+#HistoricalSites{
+  background-color: black;
+}
+
+#Restaurants{
+  background-color: dimgrey;
+}
+
+#Parks{
+  background-color: dimgrey;
+}
+
+#Hotels{
+  background-color: black;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: hotpink;
+}
+
+a:hover {
+  color: blueviolet;
+
